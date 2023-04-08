@@ -1,13 +1,11 @@
 const student = {
-  firstName: "web",
-  secondName: "dev",
-  class: "10",
+  firstName: "Vishnu",
+  secondName: "V",
+  standard: "13",
 };
 
-console.log(student);
-
-// integer
-data = 5;
-
-// String
-data = "javascript";
+// console.log(student.firstName);
+student.firstName = "Nivil";
+console.log(student.firstName);
+student.standard = 10;
+console.log(student.standard);

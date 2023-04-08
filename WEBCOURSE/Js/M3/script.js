@@ -1,11 +1,16 @@
-function name() {
-  // body
+// fn for add two numbers
+
+function sum(a, b, c) {
+  console.log("sum is", a + b + c);
 }
 
-function hello() {
-  console.log("hello");
-}
+sum(1, 2, 3);
 
-function sum(a, b) {
+function sumReturn(a, b) {
   return a + b;
 }
+
+let result = sumReturn(30, 40);
+
+document.write(`<h2> result is ${result}</h2>`);
+console.log(result);

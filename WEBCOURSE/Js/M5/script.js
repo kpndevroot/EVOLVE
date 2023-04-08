@@ -20,3 +20,4 @@ const studentOne = {
 
 console.log(studentOne.age);
 console.log(studentOne.marks.maths);
+console.log(studentOne.marks.cs);

@@ -1,17 +1,4 @@
-const number1 = 3;
-const number2 = 3.433;
-const number3 = 3e5; // 3 * 10^5
-// const number1 = 3/0;
-console.log(number1); // Infinityconst number2 = -3/0;
-console.log(number2); // -Infinity// strings can't be divided by
-console.log(number3); // NaN
-
-// Boolean
-
-const pass = true;
-
-// null
-
-const data = null;
-
-
+var variable_name = 10;
+let variable_name1 = 20;
+const variable_name2 = 0;
+const vishnu_number = 1122334455;
